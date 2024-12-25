@@ -1,0 +1,133 @@
+
+State Machine - |test|mode26
+Name mode26.0001 
+mode26.0000 0 
+mode26.0001 1 
+
+State Machine - |test|mode25
+Name mode25.0001 
+mode25.0000 0 
+mode25.0001 1 
+
+State Machine - |test|mode24
+Name mode24.0001 
+mode24.0000 0 
+mode24.0001 1 
+
+State Machine - |test|mode23
+Name mode23.0001 
+mode23.0000 0 
+mode23.0001 1 
+
+State Machine - |test|mode22
+Name mode22.0001 
+mode22.0000 0 
+mode22.0001 1 
+
+State Machine - |test|mode21
+Name mode21.0001 
+mode21.0000 0 
+mode21.0001 1 
+
+State Machine - |test|mode20
+Name mode20.0001 
+mode20.0000 0 
+mode20.0001 1 
+
+State Machine - |test|mode19
+Name mode19.0001 
+mode19.0000 0 
+mode19.0001 1 
+
+State Machine - |test|mode18
+Name mode18.0011 mode18.0010 mode18.0001 mode18.0000 
+mode18.0000 0 0 0 0 
+mode18.0001 0 0 1 1 
+mode18.0010 0 1 0 1 
+mode18.0011 1 0 0 1 
+
+State Machine - |test|mode17
+Name mode17.0011 mode17.0010 mode17.0001 mode17.0000 
+mode17.0000 0 0 0 0 
+mode17.0001 0 0 1 1 
+mode17.0010 0 1 0 1 
+mode17.0011 1 0 0 1 
+
+State Machine - |test|mode16
+Name mode16.0001 
+mode16.0000 0 
+mode16.0001 1 
+
+State Machine - |test|mode15
+Name mode15.0000 mode15.0010 mode15.0001 
+mode15.0000 0 0 0 
+mode15.0001 1 0 1 
+mode15.0010 1 1 0 
+
+State Machine - |test|mode14
+Name mode14.0001 
+mode14.0000 0 
+mode14.0001 1 
+
+State Machine - |test|mode13
+Name mode13.0001 
+mode13.0000 0 
+mode13.0001 1 
+
+State Machine - |test|mode12
+Name mode12.0000 mode12.0010 mode12.0001 
+mode12.0000 0 0 0 
+mode12.0001 1 0 1 
+mode12.0010 1 1 0 
+
+State Machine - |test|mode11
+Name mode11.0001 
+mode11.0000 0 
+mode11.0001 1 
+
+State Machine - |test|mode10
+Name mode10.0001 
+mode10.0000 0 
+mode10.0001 1 
+
+State Machine - |test|mode9
+Name mode9.0000 mode9.0010 mode9.0001 
+mode9.0000 0 0 0 
+mode9.0001 1 0 1 
+mode9.0010 1 1 0 
+
+State Machine - |test|mode8
+Name mode8.0001 
+mode8.0000 0 
+mode8.0001 1 
+
+State Machine - |test|mode7
+Name mode7.0001 
+mode7.0000 0 
+mode7.0001 1 
+
+State Machine - |test|mode6
+Name mode6.0000 mode6.0010 mode6.0001 
+mode6.0000 0 0 0 
+mode6.0001 1 0 1 
+mode6.0010 1 1 0 
+
+State Machine - |test|mode5
+Name mode5.0001 
+mode5.0000 0 
+mode5.0001 1 
+
+State Machine - |test|kind
+Name kind.011 kind.010 kind.001 kind.000 kind.100 
+kind.000 0 0 0 0 0 
+kind.001 0 0 1 1 0 
+kind.010 0 1 0 1 0 
+kind.011 1 0 0 1 0 
+kind.100 0 0 0 1 1 
+
+State Machine - |test|endgame
+Name endgame.11 endgame.10 endgame.01 endgame.00 
+endgame.00 0 0 0 0 
+endgame.01 0 0 1 1 
+endgame.10 0 1 0 1 
+endgame.11 1 0 0 1 

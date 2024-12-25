@@ -1,0 +1,13 @@
+Warning (10268): Verilog HDL information at test.v(124): always construct contains both blocking and non-blocking assignments
+Info (10281): Verilog HDL Declaration information at test.v(13): object "Clear" differs only in case from object "clear" in the same scope
+Info (10281): Verilog HDL Declaration information at test.v(3): object "Red" differs only in case from object "red" in the same scope
+Info (10281): Verilog HDL Declaration information at test.v(5): object "Blue" differs only in case from object "blue" in the same scope
+Info (10281): Verilog HDL Declaration information at test.v(4): object "Green" differs only in case from object "green" in the same scope
+Info (10281): Verilog HDL Declaration information at test.v(24): object "red" differs only in case from object "RED" in the same scope
+Info (10281): Verilog HDL Declaration information at test.v(3): object "Red" differs only in case from object "RED" in the same scope
+Info (10281): Verilog HDL Declaration information at test.v(24): object "green" differs only in case from object "GREEN" in the same scope
+Info (10281): Verilog HDL Declaration information at test.v(4): object "Green" differs only in case from object "GREEN" in the same scope
+Info (10281): Verilog HDL Declaration information at test.v(24): object "blue" differs only in case from object "BLUE" in the same scope
+Info (10281): Verilog HDL Declaration information at test.v(5): object "Blue" differs only in case from object "BLUE" in the same scope
+Info (10281): Verilog HDL Declaration information at test.v(1048): object "clear" differs only in case from object "Clear" in the same scope
+Info (10281): Verilog HDL Declaration information at test.v(1090): object "clear" differs only in case from object "Clear" in the same scope
